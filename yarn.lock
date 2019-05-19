@@ -28,10 +28,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.11.6.tgz#df929d1bb2eee5afdda598a41930fe50b43eaa6a"
   integrity sha512-Exw4yUWMBXM3X+8oqzJNRqZSwUAaS4+7NdvHqQuFi/d+synz++xmX3QIf+BFqneW8N31R8Ky+sikfZUXq07ggQ==
 
-"@types/node@^11.9.5":
-  version "11.11.5"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-11.11.5.tgz#0c57e12eb44d44e5b6735593925286553ee7cebf"
-  integrity sha512-pz6wNe/XwyesgfVX7P6B0hY3TnTAYXk6KSTLdpQfbuq3be+hnMoCuFzE+yLTskPdBwmNiGRL2TAsnF09aRugvQ==
+"@types/node@^12.0.2":
+  version "12.0.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.0.2.tgz#3452a24edf9fea138b48fad4a0a028a683da1e40"
+  integrity sha512-5tabW/i+9mhrfEOUcLDu2xBPsHJ+X5Orqy9FKpale3SjDA17j5AEpYq5vfy3oAeAHGcvANRCO3NV3d2D6q3NiA==
 
 acorn-jsx@^5.0.0:
   version "5.0.1"
@@ -1400,13 +1400,13 @@ rollup-plugin-terser@^4.0.4:
     serialize-javascript "^1.6.1"
     terser "^3.14.1"
 
-rollup@^1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-1.7.0.tgz#2f5063c0f344f2225d1077655dc54d105a512bb2"
-  integrity sha512-hjuWSCgoQsFSTsmsNP4AH1l1kfkFqW82gW00V9nL81Zr3JtnKn3rvxh18jUAAEMb7qNoHj21PR5SqbK2mhBgMg==
+rollup@^1.12.2:
+  version "1.12.2"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-1.12.2.tgz#a7c34a4bef71feb43e3ae69f0b26ae683e75db44"
+  integrity sha512-ePehZfVMIE4eO0/LV6VaMY8kp0D9sbziUabpBeJbHAHa2WJPxuS0lYLmiLamb02e098RIRyq1F2yjM4O08dQVA==
   dependencies:
     "@types/estree" "0.0.39"
-    "@types/node" "^11.9.5"
+    "@types/node" "^12.0.2"
     acorn "^6.1.1"
 
 run-async@^2.2.0:
